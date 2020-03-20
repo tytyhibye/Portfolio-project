@@ -17,7 +17,7 @@ _A site referencing all previous projects and utilizing techniques and technolog
 
 
 ## Possible Bugs:
-* Image for "Koda" project not loading from image source.
+* Page links and hosted images are all sourced through gh-pages which is proving unreliable as a source within the code.
 
 
 ## Technologies Used
