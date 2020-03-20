@@ -32,16 +32,30 @@ img {
   height:auto;
 
 }
-
 .noPadProj{
   height:100px;
-  width:100px;
-  padding:0 !important;
+  width:33.3333333333%;
+  padding:2px !important;
 }
-/** set your divs with this class to all be the same height **/
 .contentHolder{
-  height:35vh
+  position:relative;
+  height:50vh;
 }
 .welcome{
-  width:25vw;
+  width:100%;
+  height: 50vh;
+}
+.format img {
+  float: left;
+  width: 60%;
+  height: 60%;
+}
+.format {
+padding: 2px;
+font-size:  medium;
+}
+
+.absoluteBox{
+  position: absolute;
+  bottom:0;
 }
