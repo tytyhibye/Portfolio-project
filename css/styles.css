@@ -1,12 +1,17 @@
 body {
   margin-top: 3%;
   font-family: georgia;
+  
 }
 .pic {
-  background-image: url(img/IMG_7227.jpg);
-  background-size: 150px;
-  width: 300px;
+  background-color: rgb(56, 55, 55);
+  background-image: url(C:\Users\conno_000\Desktop\Epicodus\hr\img\IMG_7227.jpg);
+  background-size: 100%;
+  width: 100%;
   height: 300px;
-  border: 2px solid;
+  border: 2px solid lightgray;
   padding: 10px;
+  color: rgb(231, 223, 223);
+  box-shadow: 5px 10px rgba(0, 0, 0, 0.281);
+  text-align: center;
 }
