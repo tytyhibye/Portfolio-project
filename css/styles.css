@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   margin-top: 3%;
   font-family: georgia;
@@ -5,7 +10,7 @@ body {
 }
 .pic {
   background-color: rgb(56, 55, 55);
-  background-image: url(C:\Users\conno_000\Desktop\Epicodus\hr\img\IMG_7227.jpg);
+  background-image: url("../img/IMG_7227.jpg");
   background-size: 100%;
   width: 100%;
   height: 300px;
@@ -13,5 +18,14 @@ body {
   padding: 10px;
   color: rgb(231, 223, 223);
   box-shadow: 5px 10px rgba(0, 0, 0, 0.281);
-  text-align: center;
+  text-align: right;
+}
+img {
+  width: 100%;
+  height: 100%;
+  background-color: darkgray;
+}
+.nitro {
+  background-image: url("https://alchetron.com/cdn/nitro-band-07d69502-f6cf-4927-9fb3-532d2a3ef2a-resize-750.jpg");
+  background-color: darkgray;
 }
