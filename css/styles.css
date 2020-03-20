@@ -21,11 +21,17 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), url("../img/IMG_7227.jpg");
 }
 img {
-  width: 100%;
-  height: 95px;
+  width: 120px;
+  height: 120px;
   background-color: lightgrey;
   padding: 4px;
 }
 .projects {
   padding: 10px;
+}
+.format img {
+  float: left;
+  padding: 4px;
+  width: 60%;
+  height: 60%;
 }
