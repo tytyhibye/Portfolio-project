@@ -6,7 +6,7 @@
 body {
   margin-top: 3%;
   font-family: georgia;
-  
+  background-image: url("https://designshack.net/wp-content/uploads/best-subtle-black-white-background-textures.jpg");
 }
 .pic {
   background-color: rgb(56, 55, 55);
@@ -16,7 +16,7 @@ body {
   border: 2px solid lightgray;
   padding: 10px;
   color: rgb(231, 223, 223);
-  box-shadow: 5px 10px rgba(0, 0, 0, 0.281);
+  box-shadow: 3px 6px rgba(0, 0, 0, 0.365);
   text-align: right;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), url("../img/IMG_7227.jpg");
 }
