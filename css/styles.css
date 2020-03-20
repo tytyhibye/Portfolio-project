@@ -31,7 +31,13 @@ img {
 }
 .format img {
   float: left;
-  padding: 4px;
   width: 60%;
   height: 60%;
+}
+.format font {
+  text-size-adjust: ;
+}
+.format {
+padding: 2px;
+font-size:  medium;
 }
