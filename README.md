@@ -10,7 +10,7 @@ _A site referencing all previous projects and utilizing techniques and technolog
 
 ## Setup/Installation Requirements
 
-* _clone from Portfolio-project repository_
+* _clone from repository http://github.com/tytyhibye/Portfolio-project/
 * _find in directory_
 * _open in local browser_
 * _enjoy_
