@@ -10,10 +10,13 @@ _A site referencing all previous projects and utilizing techniques and technolog
 
 ## Setup/Installation Requirements
 
-* _clone from repository http://github.com/tytyhibye/Portfolio-project/
-* _find in directory_
-* _open in local browser_
-* _enjoy_
+### Visit https://tytyhibye.github.io/Portfolio-project/
+
+### Additionally you can view the project details by:
+* _cloning from repository http://github.com/tytyhibye/Portfolio-project/
+* _finding in your local directory_
+* _opening in your local browser_
+* _enjoy!_
 
 
 ## Possible Bugs:
